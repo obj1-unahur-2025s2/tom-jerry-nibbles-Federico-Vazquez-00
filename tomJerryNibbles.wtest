@@ -1,6 +1,6 @@
 import tomJerryNibbles.*
 
-describe "Grupo de test" {
+describe "test TomJerry" {
 
   test "La velocidad máxima de Tom es 10" {
     assert.equals(10, tom.velocidadMaxima())
